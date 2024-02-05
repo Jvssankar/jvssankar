@@ -1,7 +1,7 @@
 # Text-based Two-player Challenge
 
 ## Description
-Welcome to our project! Text-based Two-player challenge with emphasis made using the languages Datastructures,HTML and, Javascript. It navigates the players to learn about data structures by using the knowledge and solving the problems based on data structures to understand easily.
+Welcome to our project! Text-based Two-player challenge with emphasis made using the languages Datastructures. It navigates the players to learn about data structures by using the knowledge and solving the problems based on data structures to understand easily.
 
 ## Idea contributes
 Hey, we welcome you all to share your reviews, ideas and contributes to develop the game:
